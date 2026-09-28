@@ -276,6 +276,8 @@ body {
 
     transition: .3s;
 
+    text-decoration: none;
+
 }
 
 .menu:hover {
@@ -317,7 +319,7 @@ body {
     border-top: 1px solid rgba(255,255,255,.15);
 
     padding-top: 22px;
-
+    
 }
 /* =====================================================
    CONTEÚDO PRINCIPAL
