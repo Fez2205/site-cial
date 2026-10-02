@@ -13,13 +13,13 @@
 
 ---
 
-## 💡 O projeto
+## O projeto
 
 O **Site CIAL** é um projeto de aplicação web pensado para apresentar produtos e organizar a jornada de compra em um só lugar. Ele combina páginas de catálogo e carrinho com telas de cadastro, acesso e área do cliente.
 
 Este repositório apresenta uma proposta de experiência digital para negócios que desejam mostrar seus produtos e construir uma presença online própria. As funcionalidades exibidas representam o projeto e não devem ser interpretadas como uma oferta pronta para produção sem validação e adaptação às necessidades de cada cliente.
 
-## ✨ O que ele apresenta
+## O que ele apresenta
 
 | Experiência | O que o projeto contempla |
 | --- | --- |
@@ -28,15 +28,15 @@ Este repositório apresenta uma proposta de experiência digital para negócios 
 | Relacionamento com o cliente | Cadastro, login, recuperação de senha e área do cliente |
 | Gestão | Página administrativa e backend dedicado |
 
-## 📸 Visão do projeto
+## Visão do projeto
 
 > Espaço reservado para imagens reais do site. Ao publicar capturas, mostre a página inicial, a apresentação dos produtos e o carrinho — sem dados pessoais ou credenciais.
 
-## 👨‍💻 Desenvolvimento
+## Desenvolvimento
 
 Projeto publicado por [@Fez2205](https://github.com/Fez2205) e [@ericksabinogomes-afk](https://github.com/ericksabinogomes-afk), com páginas em HTML, CSS e JavaScript e backend em Node.js.
 
-## 📬 Contato
+## Contato
 
 Interessado em um site para o seu negócio? Entre em contato pelo [perfil do GitHub](https://github.com/Fez2205).
 
